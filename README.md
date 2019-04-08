@@ -1,7 +1,8 @@
 # Fruit-Cutter
 Android game that I made for fun using Java in Android Studio
 </br>
-
+Watch the video!
+</br>
 [![Watch the video](https://i.gyazo.com/3837bcf60064ded304b8c44ce41222cb.png)](https://streamable.com/3l81i)
 
 
