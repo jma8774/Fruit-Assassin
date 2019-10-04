@@ -17,34 +17,35 @@
 13        android:debuggable="true"
 14        android:icon="@drawable/apple"
 14-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:7:9-39
-15        android:label="Fruit Assassin"
-15-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:8:9-39
+15        android:label="Cut Fruit"
+15-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:8:9-34
 16        android:roundIcon="@mipmap/ic_launcher_round"
 16-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:9:9-54
 17        android:screenOrientation="portrait"
 17-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:11:9-45
 18        android:supportsRtl="true"
 18-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:10:9-35
-19        android:theme="@style/AppTheme" >
-19-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:12:9-40
-20        <activity android:name="com.example.jimmy.makingagame.MainMenuActivity" >
-20-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:13:9-19:20
-20-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:13:19-51
-21            <intent-filter>
-21-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:14:13-18:29
-22                <action android:name="android.intent.action.MAIN" />
-22-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:15:17-69
-22-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:15:25-66
-23
-24                <category android:name="android.intent.category.LAUNCHER" />
-24-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:17:17-77
-24-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:17:27-74
-25            </intent-filter>
-26        </activity>
-27        <activity android:name="com.example.jimmy.makingagame.GameActivity" >
-27-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:20:9-21:20
-27-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:20:19-47
-28        </activity>
-29    </application>
-30
-31</manifest>
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:12:9-40
+21        <activity android:name="com.example.jimmy.makingagame.MainMenuActivity" >
+21-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:13:9-19:20
+21-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:13:19-51
+22            <intent-filter>
+22-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:14:13-18:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:15:17-69
+23-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:15:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:17:17-77
+25-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:17:27-74
+26            </intent-filter>
+27        </activity>
+28        <activity android:name="com.example.jimmy.makingagame.GameActivity" >
+28-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:20:9-21:20
+28-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:20:19-47
+29        </activity>
+30    </application>
+31
+32</manifest>

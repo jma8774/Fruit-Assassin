@@ -12,10 +12,11 @@
         android:allowBackup="true"
         android:debuggable="true"
         android:icon="@drawable/apple"
-        android:label="Fruit Assassin"
+        android:label="Cut Fruit"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:screenOrientation="portrait"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.jimmy.makingagame.MainMenuActivity" >
             <intent-filter>
