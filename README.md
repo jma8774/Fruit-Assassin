@@ -1,5 +1,5 @@
 # Fruit Assassin
-[![Watch the video](https://i.gyazo.com/3837bcf60064ded304b8c44ce41222cb.png)](https://streamable.com/3l81i)
+[![Watch the video](https://i.gyazo.com/fb5cc8f50ee209fcaa32562988893962.png)](https://www.youtube.com/watch?v=PZk43TtAyWo)
 
 > Android game that I made for fun using Java in Android Studio
 > Watch the video! (Ignore the voice in the video, I was in a voice call with my friends)
