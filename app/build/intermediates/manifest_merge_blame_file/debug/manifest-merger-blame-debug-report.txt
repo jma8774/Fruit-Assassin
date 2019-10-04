@@ -6,44 +6,44 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="15"
-8-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml
+8-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="27" />
-9-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml
+9-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml:5:5-23:19
+11-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:5:5-23:19
 12        android:allowBackup="true"
-12-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml:6:9-35
+12-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:6:9-35
 13        android:debuggable="true"
 14        android:icon="@drawable/apple"
-14-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml:7:9-39
+14-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:7:9-39
 15        android:label="Fruit Assassin"
-15-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml:8:9-39
+15-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:8:9-39
 16        android:roundIcon="@mipmap/ic_launcher_round"
-16-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml:9:9-54
+16-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:9:9-54
 17        android:screenOrientation="portrait"
-17-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml:11:9-45
+17-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:11:9-45
 18        android:supportsRtl="true"
-18-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml:10:9-35
+18-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:10:9-35
 19        android:theme="@style/AppTheme" >
-19-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml:12:9-40
+19-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:12:9-40
 20        <activity android:name="com.example.jimmy.makingagame.MainMenuActivity" >
-20-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml:13:9-19:20
-20-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml:13:19-51
+20-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:13:9-19:20
+20-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:13:19-51
 21            <intent-filter>
-21-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml:14:13-18:29
+21-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:14:13-18:29
 22                <action android:name="android.intent.action.MAIN" />
-22-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml:15:17-69
-22-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml:15:25-66
+22-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:15:17-69
+22-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:15:25-66
 23
 24                <category android:name="android.intent.category.LAUNCHER" />
-24-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml:17:17-77
-24-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml:17:27-74
+24-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:17:17-77
+24-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:17:27-74
 25            </intent-filter>
 26        </activity>
 27        <activity android:name="com.example.jimmy.makingagame.GameActivity" >
-27-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml:20:9-21:20
-27-->C:\Users\jma27\StudioProjects\Fruit-Cutter\app\src\main\AndroidManifest.xml:20:19-47
+27-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:20:9-21:20
+27-->C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:20:19-47
 28        </activity>
 29    </application>
 30
