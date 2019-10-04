@@ -1,0 +1,4 @@
+#Fri Oct 04 15:09:51 EDT 2019
+base.0=C\:\\Users\\jma27\\StudioProjects\\Fruit-Cutter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
