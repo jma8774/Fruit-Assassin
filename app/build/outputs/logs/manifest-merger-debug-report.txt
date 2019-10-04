@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-24:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jma27\.gradle\caches\transforms-2\files-2.1\24deb3f96fcdf4efbfb232dd9e179f67\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\jma27\.gradle\caches\transforms-2\files-2.1\8c342d05a2bbb05973c88334fe863e1d\constraint-layout-1.1.0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jma27\.gradle\caches\transforms-2\files-2.1\6f4095ce1e1bee6c9e96684d03d92556\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
@@ -16,59 +16,57 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jma27\.gradle\
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jma27\.gradle\caches\transforms-2\files-2.1\fa936a64f7b1438ab742867939a6e22d\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jma27\.gradle\caches\transforms-2\files-2.1\ad1696396b1335375ea10e20bc6f2083\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jma27\.gradle\caches\transforms-2\files-2.1\5f5dc07d63c7668e32c21685b3f5191e\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
 		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:3:5-44
 		INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-25:12
+		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-24:12
 		INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-25:12
+		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:1-24:12
 		INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:5:5-23:19
+ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:5:5-22:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\jma27\.gradle\caches\transforms-2\files-2.1\8c342d05a2bbb05973c88334fe863e1d\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\jma27\.gradle\caches\transforms-2\files-2.1\8c342d05a2bbb05973c88334fe863e1d\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
 	android:screenOrientation
-		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:11:9-45
+		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:10:9-45
 	android:supportsRtl
-		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:8:9-34
-	android:roundIcon
-		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:8:9-39
 	android:icon
-		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:7:9-39
+		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
 		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:12:9-40
+		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.jimmy.makingagame.MainMenuActivity
-ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:13:9-19:20
+ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:13:19-51
+		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:12:19-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:16:27-74
 activity#com.example.jimmy.makingagame.GameActivity
-ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:20:9-21:20
+ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:19:9-20:20
 	android:name
-		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:20:19-47
+		ADDED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml:19:19-47
 uses-sdk
 INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\jma27\StudioProjects\Fruit-Assassin\app\src\main\AndroidManifest.xml

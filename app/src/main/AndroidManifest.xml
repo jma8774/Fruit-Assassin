@@ -4,9 +4,8 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/apple"
-        android:label="Cut Fruit"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Fruit Assassin"
         android:supportsRtl="true"
         android:screenOrientation="portrait"
         android:theme="@style/AppTheme">
